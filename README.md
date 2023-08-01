@@ -1,7 +1,7 @@
-### Welcome to my GitHub profile 👋
+### Hi, I'm Wiktor. Welcome to my GitHub profile 👋
 
 
-I'm a graduate student of computer science in Poznan. My passion is to develop web applications based on modern technologies. During my adventure in learning programming I have dealt with many technologies: .Net, Go or Python, but in the Node.js environment I found myself the most. <br> <br>
+## I'm a graduate student of computer science in Poznan. My passion is to develop web applications based on modern technologies. During my adventure in learning programming I have dealt with many technologies: .Net, Go or Python, but in the Node.js environment I found myself the most. <br> <br>
 
 🚀 I'm interested in further development in the Node.js environment. I'm actively expanding my knowledge in this field to meet the demands of modern projects. I'm open to continuous learning and working with JS frameworks and tools I haven't dealt with before.
 
@@ -11,7 +11,7 @@ I'm a graduate student of computer science in Poznan. My passion is to develop w
 
 🤝 I'm open for cooperation and eager to take on new challenges as a Backend Web Developer or Fullstack Web Developer. I would love to join a team where I can use my skills to create innovative solutions.
 
-💬 If you are a recruiter or developer who is interested in collaboration feel free to contact me (email in bio).
+💬 If you are a recruiter or developer who is interested in collaboration feel free to contact me (email in bio). <br> <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="padding-right:10px;"/>
