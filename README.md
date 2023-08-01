@@ -1,6 +1,6 @@
 <h1 style="font-size:27px">Hi, I'm Wiktor 👋</h1>
 
-I'm a graduate student of computer science in Poznan. My passion is to develop web applications based on modern technologies. During my adventure in learning programming I have dealt with many technologies: .NET, Go or Python, but in the Node.js environment I found myself the most. <br>
+I'm a graduate student of computer science in Poznan. My passion is to develop web applications based on modern technologies. During my journey in learning programming I have dealt with many technologies: .NET, Go or Python, but in the Node.js environment I found myself the most. <br>
 
 🚀 I'm interested in further development in the Node.js environment. I'm actively expanding my knowledge in this field to meet the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;demands of modern projects. I'm open to continuous learning and working with JS frameworks and tools I haven't dealt with before.
 
