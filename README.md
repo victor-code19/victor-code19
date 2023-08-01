@@ -6,7 +6,7 @@ I'm a graduate student of computer science in Poznan. My passion is to develop w
 
 💻 On my GitHub you will find a variety of projects, from simple to more advanced application. I'll be very happy if you look at my code!
 
-🌱 I’m currently learning Next.js, Redux (React) and Docker.
+🌱 I’m currently learning Next.js, Redux (I used Context API so far) and Docker.
 
 🤝 I'm open for cooperation and eager to take on new challenges as a Backend Web Developer or Fullstack Web Developer. I would love &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to join a team where I can use my skills to create innovative solutions.
 
