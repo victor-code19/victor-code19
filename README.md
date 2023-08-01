@@ -1,10 +1,8 @@
-<h1 style="font-size:28px">Hi, I'm Wiktor. Welcome to my GitHub profile! 👋</h1>
+<h1 style="font-size:27px">Hi, I'm Wiktor 👋</h1>
 
 I'm a graduate student of computer science in Poznan. My passion is to develop web applications based on modern technologies. During my adventure in learning programming I have dealt with many technologies: .NET, Go or Python, but in the Node.js environment I found myself the most. <br> <br>
 
----
-
-🚀 I'm interested in further development in the Node.js environment. I'm actively expanding my knowledge in this field to meet the demands of modern projects. I'm open to continuous learning and working with JS frameworks and tools I haven't dealt with before.
+🚀 I'm interested in further development in the Node.js environment. I'm actively expanding my knowledge in this field to meet the &nbsp;&nbsp;&nbsp;demands of modern projects. I'm open to continuous learning and working with JS frameworks and tools I haven't dealt with before.
 
 💻 On my GitHub you will find a variety of projects, from simple to more advanced application. I'll be very happy if you look at my code!
 
