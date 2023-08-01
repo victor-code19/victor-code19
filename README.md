@@ -1,4 +1,4 @@
-<h1 style="font-size:30px">Hi, I'm Wiktor. Welcome to my GitHub profile! 👋</h1>
+<h1 style="font-size:28px">Hi, I'm Wiktor. Welcome to my GitHub profile! 👋</h1>
 
 I'm a graduate student of computer science in Poznan. My passion is to develop web applications based on modern technologies. During my adventure in learning programming I have dealt with many technologies: .NET, Go or Python, but in the Node.js environment I found myself the most. <br> <br>
 
