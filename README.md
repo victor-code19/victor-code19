@@ -16,7 +16,7 @@ Stay curious and keep coding! 👨‍💻
 
 --- 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧰 Languages and Tools:</h3>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="padding-right:10px;"/> 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="padding-right:10px;"/>  
